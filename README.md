@@ -1,2 +1,2 @@
 # Data-Science
-Enviroment of tests
+Environment of tests
